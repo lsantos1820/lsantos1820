@@ -29,12 +29,9 @@ Apaixonado por tecnologia e programação, atualmente focado em aprender e aplic
 ---
 
 ## 🔗 Conecte-se comigo  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/lsilveira1/))  
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lsilveira1/)   
  
 Agora, estou expandindo minha carreira para o **desenvolvimento de software**, unindo práticas de segurança e boas práticas de código.  
 
 🚀 **Objetivo:** evoluir como **Desenvolvedor .NET**, construir projetos práticos e compartilhar minha evolução aqui no GitHub.  
 
----
-
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lsilveira1/)  
