@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leonardo!
 
-💻 **Desenvolvedor .NET em formação**  
-Apaixonado por tecnologia e programação, atualmente focado em aprender e aplicar conceitos de **C#** e **.NET**.  
+💻 **Desenvolvedor Backend em formação** | .NET & Java (Spring Boot) | AWS em estudo | Apaixonado por tecnologia e código limpo
+  
 
 ---
 
