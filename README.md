@@ -126,7 +126,7 @@ Meu objetivo é me tornar um desenvolvedor backend sólido, capaz de construir, 
 ## 📊 Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lsantos1820&show_icons=true&theme=radical)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lsantos1820&layout=compact&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lsantos1820&layout=compact&theme=radical)
 
 ---
 
